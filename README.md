@@ -12,12 +12,6 @@ Hi, I'm Maurício Farias
 		<img src="https://img.shields.io/github/followers/mauriciompf?label=Followers" alt="mauriciompf" />
 	</a>
 </p>
-<br/>
-<p align="center">
-	<a href="https://github.com/mauriciompf">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Web+Developer;Brazilian+programmer;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
 
 <hr>
 
