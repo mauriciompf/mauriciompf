@@ -17,7 +17,7 @@ Hi, I'm Maurício Farias
 
 <pre>
 💻 I am a self taught Frontend Developer
-🌱 Learning about frontend fundamentals and PHP language
+🌱 Learning about frontend fundamentals
 🌟 Main language: JavaScript
 🚩 Interested in Full Stack Application development
 🤔 I’m currently open for a <b>job opportunity</b>
