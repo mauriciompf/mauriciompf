@@ -69,21 +69,14 @@ Hi, I'm Maurício Farias
 <br/>
 <p align="center">
 	<a href="https://github.com/mauriciompf">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mauriciompf&show_icons=true" alt="mauriciompf">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciompf" alt="mauriciompf">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciompf&langs_count=8&layout=compact" alt="mauriciompf">
+	<p  align="center">>
+		<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+	</p>
 	</a>
 	<br/>
 </p>
 <br/>
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-
-<p align="center">
-	<a href="https://github.com/mauriciompf">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciompf&langs_count=8&layout=compact" alt="mauriciompf">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
