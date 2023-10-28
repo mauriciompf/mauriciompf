@@ -1,82 +1,38 @@
-<h1 align="center">
-Hi, I'm Maurício Farias
-	<a href="https://github.com/mauriciompf" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+## 👋 &nbsp;Hey there! I'm Maurício
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore the Front-end's world.\
+🌱 &nbsp;I'm on track for learning more about JavaScript language and Web Design.\
+✍️ &nbsp;In my free time, I listening music or read something.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at fariasmauricio11@outlook.com! I'll try to respond as soon as I can.\
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;\
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 	<a href="https://github.com/mauriciompf">
-		<img src="https://komarev.com/ghpvc/?username=mauriciompf&label=Profile%20views&color=0e75b6&style=flat" alt="mauriciompf" />
-	</a>
-	<a href="https://github.com/mauriciompf">
-		<img src="https://img.shields.io/github/followers/mauriciompf?label=Followers" alt="mauriciompf" />
+  		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mauriciompf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mauriciompf&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
 </p>
-
-<hr>
-
-<pre>
-💻 I am a self taught Frontend Developer
-🌱 Learning about frontend fundamentals
-🌟 Main language: JavaScript
-🚩 Interested in Full Stack Application development
-🤔 I’m currently open for a <b>job opportunity</b>
-</pre>
-
-<hr>
-
-## 🤝 Connect with me
-
-<p align="center">
-	<a href="mailto:fariasmauricio11@outlook.com"><img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/></a>
-	<a href="https://www.linkedin.com/in/mauriciofarias-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/mauriciompf"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/mauriciompf"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-    <a href="https://github.com/mauriciompf"><img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-
-### 🧰 Frontend technologies
-
-<p>
-    <a href="https://github.com/mauriciompf"><img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="scss" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="https://github.com/mauriciompf"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="https://github.com/mauriciompf"><img alt="Google Sheets" src="https://img.shields.io/badge/google%20sheets-%FB542B.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
-</p>
-</br>
-
-## 💪 GitHub Stats
-
-<br/>
-<summary><b>⚡ Mauricio's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/mauriciompf">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciompf" alt="mauriciompf">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciompf&langs_count=8&layout=compact" alt="mauriciompf">
-	<p  align="center">>
-		<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-	</p>
-	</a>
-	<br/>
-</p>
-<br/>
-</p>
-<br/>
