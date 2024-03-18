@@ -1,9 +1,6 @@
 
 ✉️ &nbsp;You can shoot me an email at fariasmauricio11@outlook.com! I'll try to respond as soon as I can.
 
-
-### 🛠 &nbsp;Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -19,8 +16,6 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 	<a href="https://github.com/mauriciompf">
