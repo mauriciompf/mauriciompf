@@ -1,13 +1,6 @@
-## 👋 &nbsp;Hey there! I'm Maurício
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore the Front-end's world.\
-🌱 &nbsp;I'm on track for learning more about JavaScript language and Web Design.\
-✍️ &nbsp;In my free time, I listen music or read something.\
 ✉️ &nbsp;You can shoot me an email at fariasmauricio11@outlook.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
